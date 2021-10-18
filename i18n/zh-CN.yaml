@@ -1,5 +1,5 @@
 toggleMenu:
-    other: 切换菜单
+    other: 切換選單
 
 darkMode:
     other: 暗色模式
@@ -9,41 +9,41 @@ article:
         other: 返回
 
     tableOfContents:
-        other: 目录
+        other: 目錄
 
     relatedContents:
-        other: 相关文章
+        other: 相關文章
 
     lastUpdatedOn:
-        other: 最后更新于
+        other: 最後更新於 
 
     readingTime:
-        other: "阅读时长: {{ .Count }} 分钟"
+        other: "閱讀時長: {{ .Count }} 分鐘"
 
 notFound:
     title:
-        other: 404 错误
+        other: 404 錯誤
     subtitle:
-        other: 页面不存在
+        other: 頁面不存在
 
 widget:
     archives:
         title:
-            other: 归档
+            other: 歸檔
 
         more:
             other: 更多
 
     tagCloud:
         title:
-            other: 标签云
+            other: 標籤雲
 
 search:
     title:
-        other: 搜索
+        other: 搜尋
 
     placeholder:
-        other: 输入关键词...
+        other: 輸入關鍵字...
 
     resultTitle:
-        other: "#PAGES_COUNT 个结果 （用时 #TIME_SECONDS 秒）"
+        other: "#PAGES_COUNT 個結果 （用時 #TIME_SECONDS 秒）"
